@@ -8,6 +8,8 @@ namespace JobLesson09Part01v01
 {
     internal class Program
     {
+        //Требуется создать консольный файловый менеджер начального уровня,
+        //который покрывает минимальный набор функционала по работе с файлами.
         static void Main(string[] args)
         {
         }
